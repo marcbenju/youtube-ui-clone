@@ -27,7 +27,7 @@ A pixel-faithful recreation of YouTube's home page layout built with pure HTML a
 No build step needed.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-ui-clone
+git clone https://github.com/marcbenju/youtube-ui-clone
 cd youtube-ui-clone
 # Open index.html in your browser
 ```
