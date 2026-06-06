@@ -34,13 +34,6 @@ cd youtube-ui-clone
 
 Or just open `index.html` directly — it works without a server.
 
-## 💡 What I Learned
-
-- CSS Grid is more appropriate than Flexbox for 2D layouts like a video grid
-- `aspect-ratio: 16/9` is cleaner than padding-top hacks for responsive media
-- `min-width: 0` on flex children prevents overflow in the search bar — a subtle but important fix
-- Separating CSS by component (header / sidebar / videos) makes maintenance much easier
-
 ## 🔧 What I'd Improve
 
 - Add `alt` attributes to all images for accessibility
